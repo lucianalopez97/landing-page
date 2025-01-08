@@ -22,7 +22,11 @@ header {
 
 body {
     font-family: var(--font-body);
-    background-color: blueviolet;
+    background-image: url(../img/snoopy\ laptop\ wallpaper.jpeg);
+    background-size: cover;
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    height: 100vh; /* Asegura que el fondo cubra toda la ventana */
 }
 
 /* HERO */
