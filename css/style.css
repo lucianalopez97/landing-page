@@ -38,7 +38,8 @@ main {
     justify-content: center;
 }
 
-#hero {
+#hero, 
+#info{
     display: flex;
     align-items: center;
     justify-content: center;
