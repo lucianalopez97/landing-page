@@ -22,7 +22,7 @@ header {
 
 body {
     font-family: var(--font-body);
-    background-image: url(../img/snoopy\ laptop\ wallpaper.jpeg);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(180,70,252,1) 42%);
     background-size: cover;
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
